@@ -22,10 +22,10 @@
 do-teleport-wait: true
 
 # The countdown before teleportation (in seconds)
-teleport-wait: 5
+teleport-wait: 7
 
 # Should those with homes.admin teleport instantly
-admin-bypass-wait: true
+admin-bypass-wait: false
 
 # Maximum amount of homes
 # Users can bypass this with homes.bypasscap
